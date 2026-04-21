@@ -798,7 +798,7 @@ with tab6:
     st.markdown("---")
     st.markdown(
         "<div style='text-align:center;color:gray;font-size:13px;'>"
-        "📊 E-Commerce Brazil Dashboard · Charlene Manuella Angkadjaja · Dicoding 2024"
+        "📊 E-Commerce Brazil Dashboard · Charlene Manuella Angkadjaja · Dicoding 2025"
         "</div>",
         unsafe_allow_html=True
     )
