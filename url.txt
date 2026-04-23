@@ -1,2 +1,8 @@
+<<<<<<< Updated upstream
 URL Local: http://localhost:8501 
 URL Streamlit Cloud: https://charlene-dashboard-analysis.streamlit.app/
+=======
+http://localhost:8501 
+
+https://charlene-dashboard-analysis.streamlit.app/
+>>>>>>> Stashed changes
