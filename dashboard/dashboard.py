@@ -262,7 +262,8 @@ with tab1:
  
     col_n1, col_n2 = st.columns(2)
     with col_n1:
-        st.markdown("**Pesanan di Setiap Bulan November**")
+        st.markdown("**Lonjakan Pesanan November 2017**")
+        st.caption("Catatan: Dataset hanya memiliki 1 bulan November (2017) karena dataset berakhir Oktober 2018. Grafik menampilkan besarnya lonjakan, bukan perbandingan antar tahun.")
         fig, ax = plt.subplots(figsize=(7, 4))
         b = ax.bar(nov_data['year_month'], nov_data['total_orders'],
                    color=PALETTE['primary'], edgecolor='white', width=0.5)
